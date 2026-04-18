@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="38" fill="#c8401e"/>
+  <rect x="12" y="12" width="168" height="168" rx="28" fill="#a83318"/>
+  <text x="96" y="130" font-size="100" text-anchor="middle" font-family="sans-serif">🏪</text>
+  <rect x="20" y="150" width="152" height="28" rx="8" fill="rgba(0,0,0,0.35)"/>
+  <text x="96" y="169" font-size="14" text-anchor="middle" fill="#f5a623" font-weight="bold" font-family="sans-serif" letter-spacing="1">SHRIRAM</text>
+</svg>
